@@ -5,33 +5,20 @@
 - 💬 Pergunta ai / Ask me about ...
 - ⚡ Fun fact:...
 
-<div align="center">>
-  <a href="https://github.com/Jaime-Dantas">
-  <img higth="auto" src="https://github-readme-stats.vercel.app/api?username=Jaime-Dantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img higth="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Dantas&layout=compact&langs_count=7&theme=dracula"/>  
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="rigth" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="rigth" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="rigth" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="rigth" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   
-</div>
-  
-  
-  
+<div align="left">
+
+### 📈 Stats  
+![Jaime Dantas stats](https://github-readme-stats.vercel.app/api?username=Jaime-Dantas&theme=dracula&show_icons=true)
+### 💡  Languages 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Dantas&hide=scss&layout=compact&theme=dracula&title_color=#42daf5)  
+
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=plastic) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=plastic)
     
   
   
  
-<div> 
-  
-  
- <a href = "mailto:jaimesilvajk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jaime-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
-</div>
 
+<p align="center">
+<img src="https://badges.pufler.dev/visits/Jaime-Dantas/Jaime-Dantas"></img> &nbsp;
+</p>
