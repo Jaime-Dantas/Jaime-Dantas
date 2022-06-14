@@ -5,10 +5,10 @@
 - 💬 Pergunta ai / Ask me about ...
 - ⚡ Fun fact:...
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Jaime-Dantas">
-  <img height="180em" width="150em" src="https://github-readme-stats.vercel.app/api?username=Jaime-Dantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Dantas&layout=compact&langs_count=7&theme=dracula"/>
+  <img higth="180em" src="https://github-readme-stats.vercel.app/api?username=Jaime-Dantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img higth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Dantas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
