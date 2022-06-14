@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jaime entusiasta da técnologia e amante da boa música / Hi there 👋 I am Jaime tech enthusiast and music lover
 
-- 🔭 Autalmente trabalho cm Front-End / I’m currently working on Front-End and Mobile
+- 🔭 Autalmente desejo atuar na área de Front-End / I’m currently working on Front-End and Mobile
 - 🌱 Atualmente estudo desenvolvimento web e Flutter / I’m currently learning Dev Web and Flutter
 - 💬 Pergunta ai / Ask me about ...
 - ⚡ Fun fact:...
