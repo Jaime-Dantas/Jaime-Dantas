@@ -9,7 +9,7 @@
 ### 📈 Stats  
 ![Jaime Dantas stats](https://github-readme-stats.vercel.app/api?username=jaime-dantas&theme=dracula&show_icons=true)
 ### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Dantas&hide=scss&layout=compact&theme=dracula&title_color=#42daf5)  
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-dantas&hide=scss&layout=compact&theme=dracula&title_color=#42daf5)  
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
