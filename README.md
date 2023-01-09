@@ -29,3 +29,4 @@
 <p align="center">
 <img src="https://badges.pufler.dev/visits/Jaime-Dantas/Jaime-Dantas"></img> &nbsp;
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaime-dantas&label=Profile%20views&color=0e75b6&style=flat" alt="Jaime-Dantas" /> </p>
