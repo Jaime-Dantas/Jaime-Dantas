@@ -1,14 +1,13 @@
 ### Olá, eu sou o Jaime entusiasta da técnologia e amante da boa música / Hi there 👋 I am Jaime tech enthusiast and music lover
 
-- 🔭 Autalmente desejo atuar na área de Front-End / I’m currently working on Front-End and Mobile
-- 🌱 Atualmente estudo desenvolvimento web e Flutter / I’m currently learning Dev Web and Flutter
-- 💬 Pergunta ai / Ask me about ...
-- ⚡ Fun fact:...
+- 🔭 Autalmente desejo atuar na área de Front-End
+- 🌱 Atualmente estudo desenvolvimento web
+
 
 <div align="left">
 
 ### 📈 Stats  
-![Jaime Dantas stats](https://github-readme-stats.vercel.app/api?username=Jaime-Dantas&theme=dracula&show_icons=true)
+![Jaime Dantas stats](https://github-readme-stats.vercel.app/api?username=jaime-dantas&theme=dracula&show_icons=true)
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Dantas&hide=scss&layout=compact&theme=dracula&title_color=#42daf5)  
 
